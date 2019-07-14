@@ -2,7 +2,7 @@
 **Authors**: Akshay Tambe (apt321), Ashish Jain (aj2429), Lakshay Sharma (ls4618)
 
 <p align="center">
-<img src="https://github.com/NYU-VIS-FALL2018/storytelling-group-20-story-of-epl-champions/blob/master/resources/leicester.jpg")</img></p>
+<img src="https://github.com/aj2429/storytelling-group-20-story-of-epl-champions/blob/master/resources/leicester.jpg")</img></p>
 
 
 ## Project Goal and Description
@@ -16,7 +16,7 @@ We aim to visualize that all teams in the given EPL season, where did a given te
 * From this visualization, we can understand the build-up of the story of how Leicester City overcome their failures and rise up to the EPL Throne.
 
 <p align="center">
-<img src="https://github.com/NYU-VIS-FALL2018/storytelling-group-20-story-of-epl-champions/blob/master/resources/documentation_1.png")</img></p>
+<img src="https://github.com/aj2429/storytelling-group-20-story-of-epl-champions/blob/master/resources/documentation_1.png")</img></p>
 
 ### 2. Dynamic Game News Events with Multi-Line Chart (Horizontal Timeline):
 * A horizontal slider which depicts the game-by-game highlights of the matches played by Leicester City in Season 2015-’16.
@@ -24,16 +24,16 @@ We aim to visualize that all teams in the given EPL season, where did a given te
 * The example shown below shows that when we hover over the game number in the line chart, you can view the highlights of the matches and understand the journey of the team to win the championship.
 
 <p align="center">
-<img src="https://github.com/NYU-VIS-FALL2018/storytelling-group-20-story-of-epl-champions/blob/master/resources/documentation_2.png")</img></p>
+<img src="https://github.com/aj2429/storytelling-group-20-story-of-epl-champions/blob/master/resources/documentation_2.png")</img></p>
 
 ### 3. EPL Goal Score Tracker:
 * A D3 Interactive Visualization is created to show the performance of all teams to a particular opponent in season 2015-’16.
 * From this visualization, we can analyze how Leicester City aced against a particular team in season 2015-’16.
 
 <p align="center">
-<img src="https://github.com/NYU-VIS-FALL2018/storytelling-group-20-story-of-epl-champions/blob/master/resources/documentation_3.png")</img></p>
+<img src="https://github.com/aj2429/storytelling-group-20-story-of-epl-champions/blob/master/resources/documentation_3.png")</img></p>
 
 ## More
-[DEMO](https://nyu-vis-fall2018.github.io/storytelling-group-20-story-of-epl-champions/)
+[DEMO](https://aj2429.github.io/storytelling-group-20-story-of-epl-champions/)
 
-[Project Description](https://github.com/NYU-VIS-FALL2018/storytelling-group-20-story-of-epl-champions/blob/master/resources/Group_20_Project_Description.pdf)
+[Project Description](https://github.com/aj2429/storytelling-group-20-story-of-epl-champions/blob/master/resources/Group_20_Project_Description.pdf)
