@@ -1,0 +1,761 @@
+Team,MatchNo,Points,GD
+Southampton,1,1,0
+Southampton,2,1,-3
+Southampton,3,2,-3
+Southampton,4,5,0
+Southampton,5,6,0
+Southampton,6,6,-1
+Southampton,7,9,1
+Southampton,8,12,3
+Southampton,9,13,3
+Southampton,10,14,3
+Southampton,11,17,5
+Southampton,12,20,6
+Southampton,13,20,5
+Southampton,14,20,3
+Southampton,15,21,3
+Southampton,16,21,2
+Southampton,17,21,0
+Southampton,18,24,4
+Southampton,19,24,3
+Southampton,20,24,2
+Southampton,21,27,4
+Southampton,22,30,7
+Southampton,23,33,8
+Southampton,24,34,8
+Southampton,25,37,9
+Southampton,26,40,10
+Southampton,27,40,9
+Southampton,28,40,7
+Southampton,29,41,7
+Southampton,30,44,8
+Southampton,31,47,9
+Southampton,32,47,8
+Southampton,33,50,10
+Southampton,34,51,10
+Southampton,35,54,12
+Southampton,36,57,14
+Southampton,37,60,15
+Southampton,38,63,18
+Man United,1,3,1
+Man United,2,6,2
+Man United,3,7,2
+Man United,4,7,1
+Man United,5,10,3
+Man United,6,13,4
+Man United,7,16,7
+Man United,8,16,4
+Man United,9,19,7
+Man United,10,20,7
+Man United,11,21,7
+Man United,12,24,9
+Man United,13,27,10
+Man United,14,28,10
+Man United,15,29,10
+Man United,16,29,9
+Man United,17,29,8
+Man United,18,29,6
+Man United,19,30,6
+Man United,20,33,7
+Man United,21,34,7
+Man United,22,37,8
+Man United,23,37,7
+Man United,24,40,10
+Man United,25,41,10
+Man United,26,41,9
+Man United,27,44,10
+Man United,28,47,11
+Man United,29,47,10
+Man United,30,50,11
+Man United,31,53,12
+Man United,32,53,9
+Man United,33,56,10
+Man United,34,59,12
+Man United,35,60,12
+Man United,36,63,13
+Man United,37,63,12
+Man United,38,66,14
+Leicester,1,3,2
+Leicester,2,6,3
+Leicester,3,7,3
+Leicester,4,8,3
+Leicester,5,11,4
+Leicester,6,12,4
+Leicester,7,12,1
+Leicester,8,15,2
+Leicester,9,16,2
+Leicester,10,19,3
+Leicester,11,22,4
+Leicester,12,25,5
+Leicester,13,28,8
+Leicester,14,29,8
+Leicester,15,32,11
+Leicester,16,35,12
+Leicester,17,38,13
+Leicester,18,38,12
+Leicester,19,39,12
+Leicester,20,40,12
+Leicester,21,43,13
+Leicester,22,44,13
+Leicester,23,47,16
+Leicester,24,50,18
+Leicester,25,53,20
+Leicester,26,53,19
+Leicester,27,56,20
+Leicester,28,57,20
+Leicester,29,60,21
+Leicester,30,63,22
+Leicester,31,66,23
+Leicester,32,69,24
+Leicester,33,72,26
+Leicester,34,73,26
+Leicester,35,76,30
+Leicester,36,77,30
+Leicester,37,80,32
+Leicester,38,81,32
+Man City,1,3,3
+Man City,2,6,6
+Man City,3,9,8
+Man City,4,12,10
+Man City,5,15,11
+Man City,6,15,10
+Man City,7,15,7
+Man City,8,18,12
+Man City,9,21,16
+Man City,10,22,16
+Man City,11,25,17
+Man City,12,26,17
+Man City,13,26,14
+Man City,14,29,16
+Man City,15,29,14
+Man City,16,32,15
+Man City,17,32,14
+Man City,18,35,17
+Man City,19,36,17
+Man City,20,39,18
+Man City,21,40,18
+Man City,22,43,22
+Man City,23,44,22
+Man City,24,47,23
+Man City,25,47,21
+Man City,26,47,20
+Man City,27,47,17
+Man City,28,50,21
+Man City,29,51,21
+Man City,30,51,20
+Man City,31,54,24
+Man City,32,57,25
+Man City,33,60,28
+Man City,34,61,28
+Man City,35,64,32
+Man City,36,64,30
+Man City,37,65,30
+Man City,38,66,30
+West Ham,1,3,2
+West Ham,2,3,1
+West Ham,3,3,0
+West Ham,4,6,3
+West Ham,5,9,5
+West Ham,6,12,6
+West Ham,7,13,6
+West Ham,8,14,6
+West Ham,9,17,8
+West Ham,10,20,9
+West Ham,11,20,7
+West Ham,12,21,7
+West Ham,13,21,4
+West Ham,14,22,4
+West Ham,15,23,4
+West Ham,16,24,4
+West Ham,17,25,4
+West Ham,18,26,4
+West Ham,19,29,5
+West Ham,20,32,7
+West Ham,21,35,9
+West Ham,22,35,8
+West Ham,23,36,8
+West Ham,24,39,10
+West Ham,25,39,9
+West Ham,26,40,9
+West Ham,27,43,10
+West Ham,28,46,11
+West Ham,29,49,12
+West Ham,30,50,12
+West Ham,31,51,12
+West Ham,32,52,12
+West Ham,33,53,12
+West Ham,34,56,14
+West Ham,35,59,17
+West Ham,36,59,14
+West Ham,37,62,15
+West Ham,38,62,14
+Norwich,1,0,-2
+Norwich,2,3,0
+Norwich,3,4,0
+Norwich,4,4,-3
+Norwich,5,7,-1
+Norwich,6,8,-1
+Norwich,7,9,-1
+Norwich,8,9,-2
+Norwich,9,9,-6
+Norwich,10,9,-7
+Norwich,11,9,-8
+Norwich,12,12,-7
+Norwich,13,12,-8
+Norwich,14,13,-8
+Norwich,15,13,-10
+Norwich,16,14,-10
+Norwich,17,17,-9
+Norwich,18,17,-12
+Norwich,19,20,-10
+Norwich,20,23,-9
+Norwich,21,23,-11
+Norwich,22,23,-14
+Norwich,23,23,-15
+Norwich,24,23,-18
+Norwich,25,23,-20
+Norwich,26,24,-20
+Norwich,27,24,-21
+Norwich,28,24,-22
+Norwich,29,24,-23
+Norwich,30,25,-23
+Norwich,31,28,-22
+Norwich,32,31,-21
+Norwich,33,31,-22
+Norwich,34,31,-25
+Norwich,35,31,-26
+Norwich,36,31,-27
+Norwich,37,34,-25
+Norwich,38,34,-28
+Aston Villa,1,3,1
+Aston Villa,2,3,0
+Aston Villa,3,3,-1
+Aston Villa,4,4,-1
+Aston Villa,5,4,-2
+Aston Villa,6,4,-3
+Aston Villa,7,4,-4
+Aston Villa,8,4,-5
+Aston Villa,9,4,-7
+Aston Villa,10,4,-8
+Aston Villa,11,4,-10
+Aston Villa,12,5,-10
+Aston Villa,13,5,-14
+Aston Villa,14,5,-15
+Aston Villa,15,6,-15
+Aston Villa,16,6,-17
+Aston Villa,17,7,-17
+Aston Villa,18,8,-17
+Aston Villa,19,8,-19
+Aston Villa,20,8,-21
+Aston Villa,21,11,-20
+Aston Villa,22,12,-20
+Aston Villa,23,13,-20
+Aston Villa,24,13,-22
+Aston Villa,25,16,-20
+Aston Villa,26,16,-26
+Aston Villa,27,16,-27
+Aston Villa,28,16,-29
+Aston Villa,29,16,-33
+Aston Villa,30,16,-35
+Aston Villa,31,16,-36
+Aston Villa,32,16,-40
+Aston Villa,33,16,-41
+Aston Villa,34,16,-42
+Aston Villa,35,16,-44
+Aston Villa,36,16,-45
+Aston Villa,37,17,-45
+Aston Villa,38,17,-49
+Arsenal,1,0,-2
+Arsenal,2,3,-1
+Arsenal,3,4,-1
+Arsenal,4,7,0
+Arsenal,5,10,2
+Arsenal,6,10,0
+Arsenal,7,13,3
+Arsenal,8,16,6
+Arsenal,9,19,9
+Arsenal,10,22,10
+Arsenal,11,25,13
+Arsenal,12,26,13
+Arsenal,13,26,12
+Arsenal,14,27,12
+Arsenal,15,30,14
+Arsenal,16,33,16
+Arsenal,17,36,17
+Arsenal,18,36,13
+Arsenal,19,39,15
+Arsenal,20,42,16
+Arsenal,21,43,16
+Arsenal,22,44,16
+Arsenal,23,44,15
+Arsenal,24,45,15
+Arsenal,25,48,17
+Arsenal,26,51,18
+Arsenal,27,51,17
+Arsenal,28,51,16
+Arsenal,29,52,16
+Arsenal,30,55,18
+Arsenal,31,58,22
+Arsenal,32,59,22
+Arsenal,33,60,22
+Arsenal,34,63,24
+Arsenal,35,64,24
+Arsenal,36,67,25
+Arsenal,37,68,25
+Arsenal,38,71,29
+Bournemouth,1,0,-1
+Bournemouth,2,0,-2
+Bournemouth,3,3,-1
+Bournemouth,4,4,-1
+Bournemouth,5,4,-3
+Bournemouth,6,7,-1
+Bournemouth,7,7,-2
+Bournemouth,8,8,-2
+Bournemouth,9,8,-6
+Bournemouth,10,8,-10
+Bournemouth,11,8,-12
+Bournemouth,12,8,-13
+Bournemouth,13,9,-13
+Bournemouth,14,10,-13
+Bournemouth,15,13,-12
+Bournemouth,16,16,-11
+Bournemouth,17,19,-10
+Bournemouth,18,20,-10
+Bournemouth,19,20,-12
+Bournemouth,20,21,-12
+Bournemouth,21,21,-14
+Bournemouth,22,24,-11
+Bournemouth,23,25,-11
+Bournemouth,24,28,-10
+Bournemouth,25,28,-12
+Bournemouth,26,28,-14
+Bournemouth,27,29,-14
+Bournemouth,28,32,-12
+Bournemouth,29,35,-10
+Bournemouth,30,38,-9
+Bournemouth,31,38,-12
+Bournemouth,32,38,-16
+Bournemouth,33,41,-15
+Bournemouth,34,41,-16
+Bournemouth,35,41,-19
+Bournemouth,36,41,-20
+Bournemouth,37,42,-20
+Bournemouth,38,42,-22
+Crystal Palace,1,3,2
+Crystal Palace,2,3,1
+Crystal Palace,3,6,2
+Crystal Palace,4,9,3
+Crystal Palace,5,9,2
+Crystal Palace,6,9,1
+Crystal Palace,7,12,2
+Crystal Palace,8,15,4
+Crystal Palace,9,15,2
+Crystal Palace,10,15,1
+Crystal Palace,11,16,1
+Crystal Palace,12,19,2
+Crystal Palace,13,19,1
+Crystal Palace,14,22,5
+Crystal Palace,15,23,5
+Crystal Palace,16,26,6
+Crystal Palace,17,29,7
+Crystal Palace,18,30,7
+Crystal Palace,19,31,7
+Crystal Palace,20,31,4
+Crystal Palace,21,31,3
+Crystal Palace,22,31,-1
+Crystal Palace,23,31,-3
+Crystal Palace,24,31,-4
+Crystal Palace,25,32,-4
+Crystal Palace,26,32,-5
+Crystal Palace,27,32,-6
+Crystal Palace,28,33,-6
+Crystal Palace,29,33,-7
+Crystal Palace,30,33,-8
+Crystal Palace,31,34,-8
+Crystal Palace,32,37,-7
+Crystal Palace,33,38,-7
+Crystal Palace,34,39,-7
+Crystal Palace,35,39,-9
+Crystal Palace,36,39,-10
+Crystal Palace,37,42,-9
+Crystal Palace,38,42,-12
+Sunderland,1,0,-2
+Sunderland,2,0,-4
+Sunderland,3,1,-4
+Sunderland,4,2,-4
+Sunderland,5,2,-5
+Sunderland,6,2,-7
+Sunderland,7,2,-10
+Sunderland,8,3,-10
+Sunderland,9,3,-11
+Sunderland,10,6,-8
+Sunderland,11,6,-12
+Sunderland,12,6,-13
+Sunderland,13,9,-12
+Sunderland,14,12,-10
+Sunderland,15,12,-12
+Sunderland,16,12,-13
+Sunderland,17,12,-15
+Sunderland,18,12,-18
+Sunderland,19,12,-19
+Sunderland,20,15,-17
+Sunderland,21,18,-15
+Sunderland,22,18,-18
+Sunderland,23,19,-18
+Sunderland,24,19,-19
+Sunderland,25,20,-19
+Sunderland,26,23,-18
+Sunderland,27,23,-19
+Sunderland,28,24,-19
+Sunderland,29,25,-19
+Sunderland,30,26,-19
+Sunderland,31,27,-19
+Sunderland,32,27,-21
+Sunderland,33,30,-18
+Sunderland,34,31,-18
+Sunderland,35,32,-18
+Sunderland,36,35,-17
+Sunderland,37,38,-14
+Sunderland,38,39,-14
+Liverpool,1,3,1
+Liverpool,2,6,2
+Liverpool,3,7,2
+Liverpool,4,7,-1
+Liverpool,5,7,-3
+Liverpool,6,8,-3
+Liverpool,7,11,-2
+Liverpool,8,12,-2
+Liverpool,9,13,-2
+Liverpool,10,14,-2
+Liverpool,11,17,0
+Liverpool,12,17,-1
+Liverpool,13,20,2
+Liverpool,14,23,3
+Liverpool,15,23,1
+Liverpool,16,24,1
+Liverpool,17,24,-2
+Liverpool,18,27,-1
+Liverpool,19,30,0
+Liverpool,20,30,-2
+Liverpool,21,31,-2
+Liverpool,22,31,-3
+Liverpool,23,34,-2
+Liverpool,24,34,-4
+Liverpool,25,35,-4
+Liverpool,26,38,2
+Liverpool,27,41,5
+Liverpool,28,44,6
+Liverpool,29,44,5
+Liverpool,30,45,5
+Liverpool,31,48,8
+Liverpool,32,51,9
+Liverpool,33,54,13
+Liverpool,34,55,13
+Liverpool,35,55,11
+Liverpool,36,58,13
+Liverpool,37,59,13
+Liverpool,38,60,13
+Watford,1,1,0
+Watford,2,2,0
+Watford,3,3,0
+Watford,4,3,-2
+Watford,5,6,-1
+Watford,6,9,0
+Watford,7,9,-1
+Watford,8,10,-1
+Watford,9,10,-4
+Watford,10,13,-2
+Watford,11,16,0
+Watford,12,16,-1
+Watford,13,16,-2
+Watford,14,19,-1
+Watford,15,22,1
+Watford,16,25,2
+Watford,17,28,5
+Watford,18,29,5
+Watford,19,29,4
+Watford,20,29,3
+Watford,21,29,1
+Watford,22,29,0
+Watford,23,32,1
+Watford,24,33,1
+Watford,25,33,0
+Watford,26,36,1
+Watford,27,37,1
+Watford,28,37,0
+Watford,29,37,-1
+Watford,30,37,-2
+Watford,31,37,-6
+Watford,32,38,-6
+Watford,33,41,-5
+Watford,34,41,-7
+Watford,35,44,-6
+Watford,36,44,-8
+Watford,37,44,-10
+Watford,38,45,-10
+Newcastle,1,1,0
+Newcastle,2,1,-2
+Newcastle,3,2,-2
+Newcastle,4,2,-3
+Newcastle,5,2,-5
+Newcastle,6,2,-6
+Newcastle,7,3,-6
+Newcastle,8,3,-11
+Newcastle,9,6,-7
+Newcastle,10,6,-10
+Newcastle,11,7,-10
+Newcastle,12,10,-9
+Newcastle,13,10,-12
+Newcastle,14,10,-16
+Newcastle,15,13,-14
+Newcastle,16,16,-13
+Newcastle,17,17,-13
+Newcastle,18,17,-14
+Newcastle,19,17,-15
+Newcastle,20,17,-16
+Newcastle,21,18,-16
+Newcastle,22,21,-15
+Newcastle,23,21,-16
+Newcastle,24,21,-19
+Newcastle,25,24,-18
+Newcastle,26,24,-22
+Newcastle,27,24,-23
+Newcastle,28,24,-25
+Newcastle,29,24,-26
+Newcastle,30,25,-26
+Newcastle,31,25,-27
+Newcastle,32,25,-29
+Newcastle,33,28,-26
+Newcastle,34,29,-26
+Newcastle,35,30,-26
+Newcastle,36,33,-25
+Newcastle,37,34,-25
+Newcastle,38,37,-21
+Everton,1,1,0
+Everton,2,4,3
+Everton,3,4,1
+Everton,4,5,1
+Everton,5,8,3
+Everton,6,9,3
+Everton,7,12,4
+Everton,8,13,4
+Everton,9,13,1
+Everton,10,13,0
+Everton,11,16,4
+Everton,12,17,4
+Everton,13,20,8
+Everton,14,21,8
+Everton,15,22,8
+Everton,16,23,8
+Everton,17,23,7
+Everton,18,26,8
+Everton,19,26,7
+Everton,20,27,7
+Everton,21,28,7
+Everton,22,29,7
+Everton,23,29,6
+Everton,24,32,9
+Everton,25,35,12
+Everton,26,35,11
+Everton,27,38,13
+Everton,28,38,12
+Everton,29,38,10
+Everton,30,38,9
+Everton,31,39,9
+Everton,32,40,9
+Everton,33,41,9
+Everton,34,41,5
+Everton,35,44,6
+Everton,36,44,4
+Everton,37,44,1
+Everton,38,47,4
+Stoke,1,0,-1
+Stoke,2,1,-1
+Stoke,3,2,-1
+Stoke,4,2,-2
+Stoke,5,2,-4
+Stoke,6,3,-4
+Stoke,7,6,-3
+Stoke,8,9,-2
+Stoke,9,12,-1
+Stoke,10,12,-3
+Stoke,11,13,-3
+Stoke,12,16,-2
+Stoke,13,19,-1
+Stoke,14,19,-3
+Stoke,15,22,-1
+Stoke,16,23,-1
+Stoke,17,23,-2
+Stoke,18,26,0
+Stoke,19,29,1
+Stoke,20,29,0
+Stoke,21,32,2
+Stoke,22,33,2
+Stoke,23,33,-1
+Stoke,24,33,-4
+Stoke,25,33,-7
+Stoke,26,36,-5
+Stoke,27,39,-4
+Stoke,28,42,-3
+Stoke,29,43,-3
+Stoke,30,43,-4
+Stoke,31,46,-3
+Stoke,32,47,-3
+Stoke,33,47,-6
+Stoke,34,47,-10
+Stoke,35,47,-14
+Stoke,36,48,-14
+Stoke,37,48,-15
+Stoke,38,51,-14
+West Brom,1,0,-3
+West Brom,2,1,-3
+West Brom,3,1,-4
+West Brom,4,4,-3
+West Brom,5,5,-3
+West Brom,6,8,-2
+West Brom,7,8,-3
+West Brom,8,8,-5
+West Brom,9,11,-4
+West Brom,10,14,-3
+West Brom,11,14,-4
+West Brom,12,14,-6
+West Brom,13,17,-5
+West Brom,14,18,-5
+West Brom,15,19,-5
+West Brom,16,20,-5
+West Brom,17,20,-6
+West Brom,18,20,-7
+West Brom,19,23,-6
+West Brom,20,26,-5
+West Brom,21,27,-5
+West Brom,22,27,-8
+West Brom,23,28,-8
+West Brom,24,29,-8
+West Brom,25,29,-9
+West Brom,26,32,-8
+West Brom,27,35,-7
+West Brom,28,36,-7
+West Brom,29,39,-6
+West Brom,30,39,-7
+West Brom,31,40,-7
+West Brom,32,40,-8
+West Brom,33,40,-9
+West Brom,34,40,-11
+West Brom,35,41,-11
+West Brom,36,41,-14
+West Brom,37,42,-14
+West Brom,38,43,-14
+Swansea,1,1,0
+Swansea,2,4,2
+Swansea,3,5,2
+Swansea,4,8,3
+Swansea,5,8,2
+Swansea,6,9,2
+Swansea,7,9,0
+Swansea,8,10,0
+Swansea,9,10,-1
+Swansea,10,13,0
+Swansea,11,13,-3
+Swansea,12,13,-4
+Swansea,13,14,-4
+Swansea,14,14,-5
+Swansea,15,14,-8
+Swansea,16,14,-9
+Swansea,17,15,-9
+Swansea,18,18,-8
+Swansea,19,19,-8
+Swansea,20,19,-9
+Swansea,21,19,-11
+Swansea,22,22,-10
+Swansea,23,25,-9
+Swansea,24,26,-9
+Swansea,25,27,-9
+Swansea,26,27,-10
+Swansea,27,27,-11
+Swansea,28,30,-10
+Swansea,29,33,-9
+Swansea,30,33,-10
+Swansea,31,36,-9
+Swansea,32,37,-9
+Swansea,33,40,-8
+Swansea,34,40,-11
+Swansea,35,40,-15
+Swansea,36,43,-13
+Swansea,37,46,-10
+Swansea,38,47,-10
+Chelsea,1,1,0
+Chelsea,2,1,-3
+Chelsea,3,4,-2
+Chelsea,4,4,-3
+Chelsea,5,4,-5
+Chelsea,6,7,-3
+Chelsea,7,8,-3
+Chelsea,8,8,-5
+Chelsea,9,11,-3
+Chelsea,10,11,-4
+Chelsea,11,11,-6
+Chelsea,12,11,-7
+Chelsea,13,14,-6
+Chelsea,14,15,-6
+Chelsea,15,15,-7
+Chelsea,16,15,-8
+Chelsea,17,18,-6
+Chelsea,18,19,-6
+Chelsea,19,20,-6
+Chelsea,20,23,-3
+Chelsea,21,24,-3
+Chelsea,22,25,-3
+Chelsea,23,28,-2
+Chelsea,24,29,-2
+Chelsea,25,30,-2
+Chelsea,26,33,2
+Chelsea,27,36,3
+Chelsea,28,39,4
+Chelsea,29,40,4
+Chelsea,30,41,4
+Chelsea,31,44,8
+Chelsea,32,44,7
+Chelsea,33,44,4
+Chelsea,34,47,7
+Chelsea,35,48,7
+Chelsea,36,48,6
+Chelsea,37,49,6
+Chelsea,38,50,6
+Tottenham,1,0,-1
+Tottenham,2,1,-1
+Tottenham,3,2,-1
+Tottenham,4,3,-1
+Tottenham,5,6,0
+Tottenham,6,9,1
+Tottenham,7,12,4
+Tottenham,8,13,4
+Tottenham,9,14,4
+Tottenham,10,17,8
+Tottenham,11,20,10
+Tottenham,12,21,10
+Tottenham,13,24,13
+Tottenham,14,25,13
+Tottenham,15,26,13
+Tottenham,16,26,12
+Tottenham,17,29,14
+Tottenham,18,32,17
+Tottenham,19,35,18
+Tottenham,20,36,18
+Tottenham,21,36,17
+Tottenham,22,39,20
+Tottenham,23,42,22
+Tottenham,24,45,25
+Tottenham,25,48,26
+Tottenham,26,51,27
+Tottenham,27,54,28
+Tottenham,28,54,27
+Tottenham,29,55,27
+Tottenham,30,58,29
+Tottenham,31,61,32
+Tottenham,32,62,32
+Tottenham,33,65,35
+Tottenham,34,68,39
+Tottenham,35,69,39
+Tottenham,36,70,39
+Tottenham,37,70,38
+Tottenham,38,70,34
