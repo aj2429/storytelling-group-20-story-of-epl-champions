@@ -2,7 +2,7 @@
 **Authors**: Akshay Tambe (apt321), Ashish Jain (aj2429), Lakshay Sharma (ls4618)
 
 <p align="center">
-<img src="https://github.com/aj2429/storytelling-group-20-story-of-epl-champions/blob/master/resources/leicester.jpg")</img></p>
+<img src="https://github.com/aj2429/storytelling-group-20-story-of-epl-champions/blob/master/resources/leicester.jpg"></img></p>
 
 
 ## Project Goal and Description
